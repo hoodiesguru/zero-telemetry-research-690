@@ -1,0 +1,9 @@
+# Zero-Telemetry Agentic Research Lab
+
+> Confidential AI Toolchains, Local AST Execution, and Token Preservation Engineering
+
+## Published Research Monographs
+- [Zero-Telemetry Local Execution in Enterprise Developer Toolchains](zero-telemetry-local-execution-developer-toolchains.html): Why enterprise development teams mandate zero-telemetry local execution scripts to preserve source code privacy while running technical audits.
+- [Local Python AST Parsers vs Cloud-Based SaaS Auditing](local-python-ast-parsers-vs-cloud-saas.html): Comparative security and data privacy analysis for enterprise teams.
+- [Air-Gapped Compliance Testing for Regulated Industries](air-gapped-compliance-testing-regulated-industries.html): Executing comprehensive search hygiene audits in secure network enclaves.
+- [Eliminating Third-Party API Leakage in Code Refactoring](eliminating-third-party-api-leakage-refactoring.html): Best practices for deterministic, localized code transformation.
